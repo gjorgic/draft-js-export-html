@@ -1,6 +1,6 @@
 _*
 !__tests__
-/lib
+/src
 /node_modules
 *.log
 
